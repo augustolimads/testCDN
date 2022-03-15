@@ -4,3 +4,5 @@ const dataTest = {
   valueA: 2,
   valueB: ['a', 'b', 'c'],
 };
+
+export default dataTest;
