@@ -5,4 +5,6 @@ const dataTest = {
   valueB: ['a', 'b', 'c'],
 };
 
-export default dataTest;
+const value = 1;
+
+export { value, dataTest };
